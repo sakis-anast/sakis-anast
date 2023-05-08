@@ -1,6 +1,6 @@
 Hi ✌️, I'm Sakis
-~ Full Stack Web Developer
-~ I enjoy working with full stack applications, solving problems, creating useful applications, constantly learning new technologies and implementing them..
+~ Full Stack Web Developer <br>
+~ I enjoy working with full stack applications, solving problems, creating useful applications, constantly learning new technologies and implementing them.
 
 ## Let's connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakis-anastasopoulos-3270b1b3/) 

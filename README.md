@@ -1,4 +1,4 @@
-Hi ✌️, I'm Sakis
+Hi ✌️, I'm Sakis <br>
 ~ Full Stack Web Developer <br>
 ~ I enjoy working with full stack applications, solving problems, creating useful applications, constantly learning new technologies and implementing them.
 
